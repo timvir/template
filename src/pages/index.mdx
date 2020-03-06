@@ -1,4 +1,23 @@
 import Wrapper from '../timvir/wrapper'
 export default Wrapper
 
+import { Exhibit, Grid, Code } from "@timvir/blocks";
+
 # Welcome
+
+## Code inside Grid
+
+<Grid>
+  <Code language="javascript">{`export const theQuestion = () => {
+  throw new Error("Unknown");
+};`}</Code>
+  <Code language="javascript">export const theAnswer = () => 42;</Code>
+</Grid>
+
+## Exhibit
+
+<Exhibit>
+  <div style={{ padding: 20, background: "teal" }}>
+    <input defaultValue="Change Me!" />
+  </div>
+</Exhibit>
