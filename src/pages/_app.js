@@ -1,5 +1,6 @@
 import * as React from "react";
 import "@timvir/core/styles.css";
+import "@timvir/blocks/styles.css";
 
 export default ({ Component, pageProps }) => (
   <>
