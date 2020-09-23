@@ -2,7 +2,7 @@
   "dependencies": {
     "@mdx-js/loader": "^1.6.16",
     "@next/mdx": "^9.5.2",
-    "@timvir/blocks": "0.0.13",
+    "@timvir/blocks": "0.1.1",
     "@timvir/core": "*",
     "downshift": "^6.0.3",
     "linaria": "^1.3.3",
