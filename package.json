@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "@mdx-js/loader": "^1.6.16",
-    "@next/mdx": "^9.5.4",
+    "@next/mdx": "^9.5.5",
     "@timvir/blocks": "0.0.13",
     "@timvir/core": "*",
     "downshift": "^6.0.6",
